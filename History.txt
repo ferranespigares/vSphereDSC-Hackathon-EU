@@ -1,0 +1,6 @@
+DSC Resource vSphere-DSC
+Author: Luc Dekens
+
+v1.6 - 21 May 2016
+- First version new layout
+ 
